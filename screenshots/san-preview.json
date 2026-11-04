@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/san",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Sàn xưởng nhạc | AUTO PROMPT MUSIC",
+      "hasCanvas": false,
+      "bodyTextLen": 2358,
+      "bodyTextHash": "8809ee783971f54ac2129bbff0592549773c4d21c42aed0f2cc15795353c8624",
+      "bodyTextPrefix": "SÀN THƯƠNG MẠI SÀN XƯỞNG NHẠC Chín ứng dụng đang mở. Nhận xét ch",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/san-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Sàn xưởng nhạc | AUTO PROMPT MUSIC",
+      "hasCanvas": false,
+      "bodyTextLen": 2358,
+      "bodyTextHash": "8809ee783971f54ac2129bbff0592549773c4d21c42aed0f2cc15795353c8624",
+      "bodyTextPrefix": "SÀN THƯƠNG MẠI SÀN XƯỞNG NHẠC Chín ứng dụng đang mở. Nhận xét ch",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/san-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/san-preview.json"
+}

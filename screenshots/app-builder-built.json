@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "AUTO PROMPT MUSIC",
+      "hasCanvas": false,
+      "bodyTextLen": 1661,
+      "bodyTextHash": "0c9f488fbaafd5de318980bb8f00dfba9f6052452944b411aea604df9c74d5ba",
+      "bodyTextPrefix": "ĐÓNG XƯỞNG PROMPT AUTO PROMPT MUSIC Style cho Suno. Mở đầu năng ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "AUTO PROMPT MUSIC",
+      "hasCanvas": false,
+      "bodyTextLen": 1661,
+      "bodyTextHash": "0c9f488fbaafd5de318980bb8f00dfba9f6052452944b411aea604df9c74d5ba",
+      "bodyTextPrefix": "ĐÓNG XƯỞNG PROMPT AUTO PROMPT MUSIC Style cho Suno. Mở đầu năng ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
